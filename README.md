@@ -1,6 +1,5 @@
-# Compass
-## Animated SVG Compass
-### In-class demo for educational purposes
+# Animated SVG Compass
+## In-class demo for educational purposes
 
 This is another kind of heading
 ===============================
@@ -8,7 +7,7 @@ This is another kind of heading
 Underlined Subheading
 ---------------------
 
- Animated SVG compass, in-class demo
+ In-class verion control demo
 
  This is another paragraph
 
