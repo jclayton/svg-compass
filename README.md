@@ -1,6 +1,6 @@
-# SVG  Compass
-## Subheading
-### Subheading of a Subheading
+# Compass
+## Animated SVG Compass
+### In-class demo for educational purposes
 
 This is another kind of heading
 ===============================
